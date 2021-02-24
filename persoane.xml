@@ -4,41 +4,48 @@
         <nume>Popescu</nume>
         <prenume>Ion</prenume>
         <varsta>23</varsta>
+        <adresa>Strada Lalelelor</adresa>
     </persoana>
 
     <persoana id="2">
         <nume>Popa</nume>
         <prenume>Andreea</prenume>
         <varsta>25</varsta>
+        <adresa>Strada Aviatiei</adresa>
     </persoana>
 
     <persoana id="3">
         <nume>Dandu</nume>
         <prenume>Andrei</prenume>
         <varsta>23</varsta>
+        <adresa>Strada Unirii</adresa>
     </persoana>
 
     <persoana id="4">
         <nume>Miron</nume>
         <prenume>Costin</prenume>
         <varsta>28</varsta>
+        <adresa>Strada Bucovinei</adresa>
     </persoana>
 
     <persoana id="5">
         <nume>Dinu</nume>
         <prenume>Maria</prenume>
         <varsta>26</varsta>
+        <adresa>Strada Independentei</adresa>
     </persoana>
 
-    <persoana id="7">
+    <persoana id="6">
         <nume>Lefter</nume>
         <prenume>Ioana</prenume>
         <varsta>21</varsta>
+        <adresa>Strada Lalelelor</adresa>
     </persoana>
 
-    <persoana id="8">
+    <persoana id="7">
         <nume>Maftei</nume>
         <prenume>Ioana</prenume>
         <varsta>26</varsta>
+        <adresa>Strada Lalelelor</adresa>
     </persoana>
 </persoane>
