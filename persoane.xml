@@ -5,4 +5,40 @@
         <prenume>Ion</prenume>
         <varsta>23</varsta>
     </persoana>
+
+    <persoana id="2">
+        <nume>Popa</nume>
+        <prenume>Andreea</prenume>
+        <varsta>25</varsta>
+    </persoana>
+
+    <persoana id="3">
+        <nume>Dandu</nume>
+        <prenume>Andrei</prenume>
+        <varsta>23</varsta>
+    </persoana>
+
+    <persoana id="4">
+        <nume>Miron</nume>
+        <prenume>Costin</prenume>
+        <varsta>28</varsta>
+    </persoana>
+
+    <persoana id="5">
+        <nume>Dinu</nume>
+        <prenume>Maria</prenume>
+        <varsta>26</varsta>
+    </persoana>
+
+    <persoana id="7">
+        <nume>Lefter</nume>
+        <prenume>Ioana</prenume>
+        <varsta>21</varsta>
+    </persoana>
+
+    <persoana id="8">
+        <nume>Maftei</nume>
+        <prenume>Ioana</prenume>
+        <varsta>26</varsta>
+    </persoana>
 </persoane>
